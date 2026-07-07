@@ -1,14 +1,18 @@
-# Spam SMS Detection using Machine Learning
+# 📩 Spam SMS Detection using Machine Learning
 
-This repository contains my submission for Task 4 of the CodSoft Machine Learning Internship.
+This repository contains my submission for **Task 4** of the **CodSoft Machine Learning Internship**.
 
-## Project Overview
+---
 
-The objective of this project is to build a machine learning model that classifies SMS messages as either Spam Message or Normal Message.
+## 📖 Project Overview
 
-The model is trained using the SMS Spam Collection Dataset and uses the Multinomial Naive Bayes algorithm for text classification.
+The objective of this project is to build a Machine Learning model that classifies SMS messages as either **Spam Message** or **Normal Message**.
 
-## Technologies Used
+The model is trained using the **SMS Spam Collection Dataset** and uses the **Multinomial Naive Bayes** algorithm for text classification.
+
+---
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -17,22 +21,30 @@ The model is trained using the SMS Spam Collection Dataset and uses the Multinom
 - CountVectorizer
 - Multinomial Naive Bayes
 - Jupyter Notebook
-- VS Code
+- Visual Studio Code (VS Code)
 
-## Dataset
+---
 
-- SMS Spam Collection Dataset
-- Total Messages: 5169
+## 📂 Dataset
 
-## Model Performance
+- **Dataset:** SMS Spam Collection Dataset
+- **Total Messages:** 5169
 
-Algorithm:
+---
+
+## 📊 Model Performance
+
+**Algorithm Used**
+
 - Multinomial Naive Bayes
 
-Accuracy:
-- 98.26%
+**Accuracy Achieved**
 
-## Repository Structure
+- **98.26%**
+
+---
+
+## 📁 Repository Structure
 
 ```
 Task_4_Spam_SMS_Detection/
@@ -46,18 +58,32 @@ Task_4_Spam_SMS_Detection/
 └── README.md
 ```
 
-## Features
+---
 
-- SMS data preprocessing
+## ✨ Features
+
+- Data preprocessing and cleaning
 - Text vectorization using CountVectorizer
 - Spam message classification
 - Custom message prediction
-- Model serialization using Pickle
+- Trained model saved using Pickle
 
-## Developed By
+---
 
-S. Vahini
+## 🎯 Internship Information
+
+**Internship:** CodSoft Machine Learning Internship
+
+**Task:** Task 4 – Spam SMS Detection
+
+---
+
+## 👩‍💻 Developed By
+
+**S. Vahini**
 
 B.Tech – Artificial Intelligence and Data Science
 
 CodSoft Machine Learning Internship
+
+⭐ Thank you for visiting this repository!
