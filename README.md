@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spam SMS Detection using Machine Learning
 
 This repository contains my submission for Task 4 of the CodSoft Machine Learning Internship.
@@ -61,3 +62,31 @@ S. Vahini
 B.Tech – Artificial Intelligence and Data Science
 
 CodSoft Machine Learning Internship
+=======
+# CODSOFT_TASKNO4# CodSoft Machine Learning Internship
+
+This repository contains my Machine Learning internship tasks completed during the CodSoft Internship.
+
+## Project
+
+📩 Spam SMS Detection using Machine Learning
+
+The project uses the **Multinomial Naive Bayes** algorithm and **CountVectorizer** to classify SMS messages as **Spam** or **Normal Message**.
+
+### Accuracy
+
+**98.26%**
+
+## Project Folder
+
+- `Task_4_Spam_SMS_Detection/`
+
+The detailed project documentation is available inside the project folder.
+
+
+## Completed Tasks
+
+- ✅ Task 4 – Spam SMS Detection
+
+More tasks will be added as they are completed.
+>>>>>>> 8bbd976 (Add trained model files)
