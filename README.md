@@ -1,63 +1,19 @@
 # Spam SMS Detection using Machine Learning
 
-This repository contains my submission for Task 4 of the CodSoft Machine Learning Internship.
+This repository contains my submission for **Task 4** of the **CodSoft Machine Learning Internship**.
 
-## Project Overview
+## Project
 
-The objective of this project is to build a machine learning model that classifies SMS messages as either Spam Message or Normal Message.
+📩 Spam SMS Detection using Machine Learning
 
-The model is trained using the SMS Spam Collection Dataset and uses the Multinomial Naive Bayes algorithm for text classification.
+The project uses the **Multinomial Naive Bayes** algorithm and **CountVectorizer** to classify SMS messages as **Spam** or **Normal Message**.
 
-## Technologies Used
+### Accuracy
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- CountVectorizer
-- Multinomial Naive Bayes
-- Jupyter Notebook
-- VS Code
+**98.26%**
 
-## Dataset
+## Project Folder
 
-- SMS Spam Collection Dataset
-- Total Messages: 5169
+- `Task_4_Spam_SMS_Detection/`
 
-## Model Performance
-
-Algorithm:
-- Multinomial Naive Bayes
-
-Accuracy:
-- 98.26%
-
-## Repository Structure
-
-```
-Task_4_Spam_SMS_Detection/
-│
-├── dataset/
-│   └── spam.csv
-│
-├── spam_sms_detection.ipynb
-├── spam_model.pkl
-├── vectorizer.pkl
-└── README.md
-```
-
-## Features
-
-- SMS data preprocessing
-- Text vectorization using CountVectorizer
-- Spam message classification
-- Custom message prediction
-- Model serialization using Pickle
-
-## Developed By
-
-S. Vahini
-
-B.Tech – Artificial Intelligence and Data Science
-
-CodSoft Machine Learning Internship
+The detailed project documentation is available inside the project folder.
