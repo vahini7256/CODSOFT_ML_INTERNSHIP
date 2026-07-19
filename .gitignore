@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 *.pkl
+Task_2_Credit_Card_Fraud_Detection/dataset/
