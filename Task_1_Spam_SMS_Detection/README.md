@@ -88,7 +88,7 @@ Normal Message
 ## 📁 Project Structure
 
 ```
-Task_4_Spam_SMS_Detection/
+Task_1_Spam_SMS_Detection/
 │
 ├── dataset/
 │   └── spam.csv

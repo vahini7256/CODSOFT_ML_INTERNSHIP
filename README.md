@@ -1,19 +1,64 @@
-# Spam SMS Detection using Machine Learning
+# 🤖 CodSoft Machine Learning Internship
 
-This repository contains my submission for **Task 4** of the **CodSoft Machine Learning Internship**.
+Welcome to my CodSoft Machine Learning Internship repository.
 
-## Project
+This repository contains all the Machine Learning tasks completed as part of the CodSoft Internship.
 
-📩 Spam SMS Detection using Machine Learning
+---
 
-The project uses the **Multinomial Naive Bayes** algorithm and **CountVectorizer** to classify SMS messages as **Spam** or **Normal Message**.
+## 📌 Completed Tasks
 
-### Accuracy
+### ✅ Task 1 - Spam SMS Detection
 
-**98.26%**
+Developed a Machine Learning model to classify SMS messages as **Spam** or **Normal Message** using **Multinomial Naive Bayes** and **CountVectorizer**.
 
-## Project Folder
+**Accuracy:** 98.26%
 
-- `Task_4_Spam_SMS_Detection/`
+📁 Folder:
+`Task_4_Spam_SMS_Detection`
 
-The detailed project documentation is available inside the project folder.
+---
+
+### ✅ Task 2 - Credit Card Fraud Detection
+
+Built a Machine Learning model to classify credit card transactions as **Legitimate** or **Fraudulent** using:
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+The project also includes a manual prediction interface where users can enter transaction details and predict whether the transaction is legitimate or fraudulent.
+
+📁 Folder:
+`Task_2_Credit_Card_Fraud_Detection`
+
+---
+
+### ⏳ Task 3
+
+Coming Soon...
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Machine Learning
+
+---
+
+## 📂 Repository Structure
+
+---
+
+## 👩‍💻 Developed By
+
+**S. Vahini**
+
+B.Tech - Artificial Intelligence & Data Science
+
+CodSoft Machine Learning Internship
