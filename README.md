@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 CodSoft Machine Learning Internship
 
 Welcome to my CodSoft Machine Learning Internship repository.
@@ -62,3 +63,6 @@ Coming Soon...
 B.Tech - Artificial Intelligence & Data Science
 
 CodSoft Machine Learning Internship
+=======
+# CODSOFT_ML_INTERNSHIP
+>>>>>>> 73f96e1b102d36338554b7e045ceaef4b3b99cb9
