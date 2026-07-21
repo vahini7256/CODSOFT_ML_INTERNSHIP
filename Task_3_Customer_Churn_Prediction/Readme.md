@@ -116,5 +116,21 @@ A manual prediction interface was created using **ipywidgets**, allowing users t
 ## 🚀 How to Run
 
 1. Clone this repository.
-
+g
 2. Install required libraries:
+
+3. Open the Jupyter Notebook:
+
+4. Run all cells.
+
+5. Enter customer details in the prediction interface.
+
+---
+
+## 👩‍💻 Developed By
+
+**S. Vahini**
+
+B.Tech - Artificial Intelligence & Data Science
+
+CodSoft Machine Learning Internship
