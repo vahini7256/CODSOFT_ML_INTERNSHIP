@@ -34,9 +34,29 @@ The project also includes a manual prediction interface where users can enter tr
 
 ---
 
-### ⏳ Task 3
+### ✅ Task 3 - Customer Churn Prediction
 
-Coming Soon...
+Developed a Machine Learning model to predict whether a bank customer is likely to **churn (leave the bank)** or **stay**.
+
+The project uses customer demographic and banking details to train a classification model and provides a manual prediction interface where users can enter customer details and get real-time churn predictions.
+
+**Model Used:**
+- Random Forest Classifier
+
+**Features Used:**
+- Credit Score
+- Geography
+- Gender
+- Age
+- Tenure
+- Balance
+- Number of Products
+- Credit Card Status
+- Active Membership
+- Estimated Salary
+
+📁 Folder:
+`Task_3_Customer_Churn_Prediction`
 
 ---
 
@@ -52,6 +72,28 @@ Coming Soon...
 ---
 
 ## 📂 Repository Structure
+
+CODSOFT_ML_INTERNSHIP/
+│
+├── Task_4_Spam_SMS_Detection/
+│ ├── Dataset/
+│ ├── spam_detection.ipynb
+│ ├── spam_model.pkl
+│ └── README.md
+│
+├── Task_2_Credit_Card_Fraud_Detection/
+│ ├── Dataset/
+│ ├── fraud_detection.ipynb
+│ ├── fraud_model.pkl
+│ └── README.md
+│
+├── Task_3_Customer_Churn_Prediction/
+│ ├── Dataset/
+│ ├── customer_churn_prediction.ipynb
+│ ├── rf_model.pkl
+│ └── README.md
+│
+└── README.md
 
 ---
 
